@@ -20,7 +20,7 @@ export default function CharactersPage() {
         </div>
         
         {/* Render the AvatarGrid with all characters */}
-        <AvatarGrid characters={characters} />
+        <AvatarGrid />
       </div>
     </main>
   );
